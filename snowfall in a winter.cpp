@@ -3408,28 +3408,28 @@ if(g>=-100)
      g=100;
 
 // plen
-if(d>=-100)
+if(d>=-150)
      d=d-0.020;
    else
      d=100;
 
 // Penguins 01
-if(f>=-100)
+if(f>=-170)
      f=f-0.050;
    else
      f=100;
 // Penguins 02
-if(k>=-100)
+if(k>=-170)
      k=k-0.050;
    else
      k=100;
 // Penguins 03
-if(m>=-100)
+if(m>=-170)
      m=m-0.050;
    else
      m=100;
 // Penguins 04
-if(n>=-100)
+if(n>=-170)
      n=n-0.050;
    else
      n=100;
@@ -3439,10 +3439,10 @@ if(l>=-80)
    else
      l=100;
 // Car 01
-      if(p<=100)
+      if(p<=150)
      p=p+0.055;
    else
-     p=-100;
+     p=-120;
 // Car 02
 if(h<=33)
      h=h+0.020;
